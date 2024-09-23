@@ -10,7 +10,7 @@ class DeviceConfig:
         return
 
     def get_battery_microvolts():
-        return 3300000
+        return 4200000
 
     # Pin configuration for the SX1262.
     config['sx1262'] = {
